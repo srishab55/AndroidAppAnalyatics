@@ -1,0 +1,248 @@
+genre=Comics,minInstalls_bin=1000001-10000000,appId=63
+genre=Simulation,minInstalls_bin=4.0,appId=400
+genre=Card,minInstalls_bin=4.0,appId=48
+genre=Strategy,minInstalls_bin=10001-100000,appId=1230
+genre=Weather,minInstalls_bin=1000001-10000000,appId=437
+genre=Music & Audio,minInstalls_bin=10001-100000,appId=1161
+genre=Art & Design,minInstalls_bin=0-10000,appId=544
+genre=Books & Reference,minInstalls_bin=4.0,appId=44
+genre=Casino,minInstalls_bin=0-10000,appId=936
+genre=Arcade,minInstalls_bin=100001-1000000,appId=1081
+genre=Communication,minInstalls_bin=1000001-10000000,appId=246
+genre=Simulation,minInstalls_bin=1000001-10000000,appId=1556
+genre=Food & Drink,minInstalls_bin=10001-100000,appId=276
+genre=Art & Design,minInstalls_bin=4.0,appId=32
+genre=Communication,minInstalls_bin=4.0,appId=94
+genre=Adventure,minInstalls_bin=100001-1000000,appId=1159
+genre=Personalization,minInstalls_bin=4.0,appId=78
+genre=Arcade,minInstalls_bin=0-10000,appId=7771
+genre=Finance,minInstalls_bin=4.0,appId=11
+genre=Action,minInstalls_bin=0-10000,appId=3937
+genre=Adventure,minInstalls_bin=10001-100000,appId=1314
+genre=Adventure,minInstalls_bin=1000001-10000000,appId=690
+genre=Travel & Local,minInstalls_bin=1000001-10000000,appId=128
+genre=Word,minInstalls_bin=0-10000,appId=2350
+genre=Music,minInstalls_bin=4.0,appId=57
+genre=Arcade,minInstalls_bin=1000001-10000000,appId=876
+genre=Parenting,minInstalls_bin=0-10000,appId=381
+genre=Simulation,minInstalls_bin=10001-100000,appId=2220
+genre=Racing,minInstalls_bin=0-10000,appId=1108
+genre=News & Magazines,minInstalls_bin=0-10000,appId=3587
+genre=Business,minInstalls_bin=0-10000,appId=2793
+genre=Education,minInstalls_bin=4.0,appId=93
+genre=Food & Drink,minInstalls_bin=1000001-10000000,appId=49
+genre=Food & Drink,minInstalls_bin=0-10000,appId=887
+genre=News & Magazines,minInstalls_bin=100001-1000000,appId=365
+genre=Finance,minInstalls_bin=100001-1000000,appId=406
+genre=Casual,minInstalls_bin=0-10000,appId=7368
+genre=Maps & Navigation,minInstalls_bin=100001-1000000,appId=334
+genre=Maps & Navigation,minInstalls_bin=10001-100000,appId=478
+genre=Productivity,minInstalls_bin=100001-1000000,appId=1079
+genre=Health & Fitness,minInstalls_bin=100001-1000000,appId=492
+genre=House & Home,minInstalls_bin=1000001-10000000,appId=7
+genre=Communication,minInstalls_bin=100001-1000000,appId=363
+genre=Word,minInstalls_bin=10001-100000,appId=905
+genre=Music,minInstalls_bin=1000001-10000000,appId=126
+genre=Music,minInstalls_bin=0-10000,appId=284
+genre=Shopping,minInstalls_bin=100001-1000000,appId=85
+genre=Board,minInstalls_bin=100001-1000000,appId=651
+genre=Card,minInstalls_bin=10001-100000,appId=967
+genre=Strategy,minInstalls_bin=4.0,appId=186
+genre=Photography,minInstalls_bin=4.0,appId=218
+genre=Puzzle,minInstalls_bin=4.0,appId=398
+genre=Lifestyle,minInstalls_bin=0-10000,appId=3747
+genre=Video Players & Editors,minInstalls_bin=10001-100000,appId=337
+genre=Strategy,minInstalls_bin=0-10000,appId=1766
+genre=Social,minInstalls_bin=4.0,appId=143
+genre=Adventure,minInstalls_bin=4.0,appId=190
+genre=Libraries & Demo,minInstalls_bin=100001-1000000,appId=20
+genre=Video Players & Editors,minInstalls_bin=1000001-10000000,appId=263
+genre=Dating,minInstalls_bin=10001-100000,appId=681
+genre=News & Magazines,minInstalls_bin=1000001-10000000,appId=87
+genre=Card,minInstalls_bin=0-10000,appId=1214
+genre=Lifestyle,minInstalls_bin=10001-100000,appId=1397
+genre=Educational,minInstalls_bin=1000001-10000000,appId=591
+genre=Dating,minInstalls_bin=0-10000,appId=1510
+genre=Puzzle,minInstalls_bin=10001-100000,appId=3159
+genre=Auto & Vehicles,minInstalls_bin=0-10000,appId=546
+genre=Sports,minInstalls_bin=0-10000,appId=3721
+genre=Maps & Navigation,minInstalls_bin=0-10000,appId=1127
+genre=Parenting,minInstalls_bin=4.0,appId=3
+genre=Casino,minInstalls_bin=1000001-10000000,appId=266
+genre=Tools,minInstalls_bin=100001-1000000,appId=2627
+genre=Finance,minInstalls_bin=10001-100000,appId=864
+genre=Dating,minInstalls_bin=1000001-10000000,appId=139
+genre=Tools,minInstalls_bin=10001-100000,appId=3422
+genre=Travel & Local,minInstalls_bin=0-10000,appId=3012
+genre=Shopping,minInstalls_bin=10001-100000,appId=156
+genre=Photography,minInstalls_bin=100001-1000000,appId=642
+genre=Lifestyle,minInstalls_bin=4.0,appId=58
+genre=Productivity,minInstalls_bin=1000001-10000000,appId=468
+genre=Weather,minInstalls_bin=0-10000,appId=311
+genre=Communication,minInstalls_bin=5.0,appId=5
+genre=Music & Audio,minInstalls_bin=100001-1000000,appId=868
+genre=Music,minInstalls_bin=100001-1000000,appId=195
+genre=Parenting,minInstalls_bin=10001-100000,appId=224
+genre=Music & Audio,minInstalls_bin=4.0,appId=180
+genre=Racing,minInstalls_bin=4.0,appId=290
+genre=Productivity,minInstalls_bin=10001-100000,appId=1536
+genre=House & Home,minInstalls_bin=10001-100000,appId=40
+genre=Action,minInstalls_bin=1000001-10000000,appId=1251
+genre=Trivia,minInstalls_bin=0-10000,appId=1982
+genre=Medical,minInstalls_bin=0-10000,appId=1096
+genre=Communication,minInstalls_bin=10001-100000,appId=458
+genre=Social,minInstalls_bin=100001-1000000,appId=807
+genre=Libraries & Demo,minInstalls_bin=1000001-10000000,appId=12
+genre=Comics,minInstalls_bin=10001-100000,appId=119
+genre=Medical,minInstalls_bin=1000001-10000000,appId=33
+genre=Word,minInstalls_bin=4.0,appId=73
+genre=Board,minInstalls_bin=1000001-10000000,appId=289
+genre=House & Home,minInstalls_bin=0-10000,appId=142
+genre=Medical,minInstalls_bin=10001-100000,appId=465
+genre=Racing,minInstalls_bin=1000001-10000000,appId=571
+genre=Education,minInstalls_bin=0-10000,appId=10610
+genre=Action,minInstalls_bin=10001-100000,appId=1619
+genre=Casual,minInstalls_bin=4.0,appId=436
+genre=Sports,minInstalls_bin=4.0,appId=219
+genre=Personalization,minInstalls_bin=1000001-10000000,appId=297
+genre=Word,minInstalls_bin=100001-1000000,appId=572
+genre=Events,minInstalls_bin=100001-1000000,appId=30
+genre=Card,minInstalls_bin=1000001-10000000,appId=335
+genre=Casino,minInstalls_bin=4.0,appId=42
+genre=Entertainment,minInstalls_bin=10001-100000,appId=2341
+genre=Maps & Navigation,minInstalls_bin=1000001-10000000,appId=132
+genre=Health & Fitness,minInstalls_bin=1000001-10000000,appId=201
+genre=Casual,minInstalls_bin=10001-100000,appId=2269
+genre=Casino,minInstalls_bin=100001-1000000,appId=596
+genre=Board,minInstalls_bin=4.0,appId=80
+genre=Simulation,minInstalls_bin=100001-1000000,appId=2471
+genre=Books & Reference,minInstalls_bin=1000001-10000000,appId=249
+genre=Action,minInstalls_bin=100001-1000000,appId=1581
+genre=Simulation,minInstalls_bin=0-10000,appId=2286
+genre=Education,minInstalls_bin=10001-100000,appId=4962
+genre=Auto & Vehicles,minInstalls_bin=100001-1000000,appId=183
+genre=Role Playing,minInstalls_bin=100001-1000000,appId=1907
+genre=Books & Reference,minInstalls_bin=100001-1000000,appId=1014
+genre=Shopping,minInstalls_bin=1000001-10000000,appId=35
+genre=Weather,minInstalls_bin=10001-100000,appId=460
+genre=Social,minInstalls_bin=1000001-10000000,appId=413
+genre=Role Playing,minInstalls_bin=10001-100000,appId=1689
+genre=Photography,minInstalls_bin=1000001-10000000,appId=460
+genre=Video Players & Editors,minInstalls_bin=0-10000,appId=385
+genre=Tools,minInstalls_bin=4.0,appId=387
+genre=Puzzle,minInstalls_bin=0-10000,appId=8907
+genre=Health & Fitness,minInstalls_bin=10001-100000,appId=823
+genre=Events,minInstalls_bin=1000001-10000000,appId=10
+genre=Board,minInstalls_bin=0-10000,appId=1247
+genre=Puzzle,minInstalls_bin=1000001-10000000,appId=1199
+genre=Business,minInstalls_bin=1000001-10000000,appId=137
+genre=Adventure,minInstalls_bin=0-10000,appId=2596
+genre=Travel & Local,minInstalls_bin=10001-100000,appId=755
+genre=Racing,minInstalls_bin=100001-1000000,appId=765
+genre=Art & Design,minInstalls_bin=10001-100000,appId=275
+genre=Entertainment,minInstalls_bin=100001-1000000,appId=1723
+genre=Maps & Navigation,minInstalls_bin=4.0,appId=27
+genre=Puzzle,minInstalls_bin=100001-1000000,appId=2255
+genre=Communication,minInstalls_bin=0-10000,appId=1267
+genre=Auto & Vehicles,minInstalls_bin=4.0,appId=6
+genre=House & Home,minInstalls_bin=4.0,appId=3
+genre=Beauty,minInstalls_bin=100001-1000000,appId=54
+genre=Dating,minInstalls_bin=4.0,appId=22
+genre=Racing,minInstalls_bin=10001-100000,appId=611
+genre=Finance,minInstalls_bin=0-10000,appId=1975
+genre=Arcade,minInstalls_bin=10001-100000,appId=1667
+genre=Strategy,minInstalls_bin=1000001-10000000,appId=828
+genre=Music & Audio,minInstalls_bin=1000001-10000000,appId=392
+genre=Books & Reference,minInstalls_bin=10001-100000,appId=2015
+genre=Entertainment,minInstalls_bin=1000001-10000000,appId=812
+genre=Dating,minInstalls_bin=100001-1000000,appId=376
+genre=Educational,minInstalls_bin=10001-100000,appId=981
+genre=Productivity,minInstalls_bin=0-10000,appId=3777
+genre=Card,minInstalls_bin=100001-1000000,appId=756
+genre=Food & Drink,minInstalls_bin=100001-1000000,appId=169
+genre=Music,minInstalls_bin=10001-100000,appId=186
+genre=Sports,minInstalls_bin=10001-100000,appId=1585
+genre=Health & Fitness,minInstalls_bin=0-10000,appId=2233
+genre=Personalization,minInstalls_bin=0-10000,appId=2501
+genre=Business,minInstalls_bin=100001-1000000,appId=316
+genre=Role Playing,minInstalls_bin=4.0,appId=189
+genre=Books & Reference,minInstalls_bin=0-10000,appId=4114
+genre=Video Players & Editors,minInstalls_bin=4.0,appId=143
+genre=Productivity,minInstalls_bin=4.0,appId=104
+genre=Role Playing,minInstalls_bin=1000001-10000000,appId=908
+genre=Art & Design,minInstalls_bin=100001-1000000,appId=254
+genre=Trivia,minInstalls_bin=100001-1000000,appId=394
+genre=Parenting,minInstalls_bin=100001-1000000,appId=157
+genre=Action,minInstalls_bin=4.0,appId=547
+genre=Personalization,minInstalls_bin=100001-1000000,appId=543
+genre=Comics,minInstalls_bin=100001-1000000,appId=103
+genre=Casino,minInstalls_bin=10001-100000,appId=667
+genre=Photography,minInstalls_bin=10001-100000,appId=556
+genre=Lifestyle,minInstalls_bin=100001-1000000,appId=860
+genre=Photography,minInstalls_bin=0-10000,appId=873
+genre=Business,minInstalls_bin=4.0,appId=28
+genre=Tools,minInstalls_bin=1000001-10000000,appId=1261
+genre=Auto & Vehicles,minInstalls_bin=10001-100000,appId=252
+genre=Comics,minInstalls_bin=0-10000,appId=148
+genre=Word,minInstalls_bin=1000001-10000000,appId=316
+genre=Trivia,minInstalls_bin=1000001-10000000,appId=162
+genre=Events,minInstalls_bin=10001-100000,appId=32
+genre=News & Magazines,minInstalls_bin=10001-100000,appId=1216
+genre=Sports,minInstalls_bin=1000001-10000000,appId=621
+genre=Education,minInstalls_bin=100001-1000000,appId=2467
+genre=Social,minInstalls_bin=0-10000,appId=2331
+genre=Tools,minInstalls_bin=0-10000,appId=6994
+genre=Trivia,minInstalls_bin=4.0,appId=30
+genre=Weather,minInstalls_bin=100001-1000000,appId=613
+genre=Medical,minInstalls_bin=100001-1000000,appId=215
+genre=Trivia,minInstalls_bin=10001-100000,appId=625
+genre=Role Playing,minInstalls_bin=0-10000,appId=1749
+genre=Beauty,minInstalls_bin=10001-100000,appId=67
+genre=Education,minInstalls_bin=1000001-10000000,appId=731
+genre=Health & Fitness,minInstalls_bin=4.0,appId=42
+genre=Events,minInstalls_bin=0-10000,appId=180
+genre=Weather,minInstalls_bin=4.0,appId=61
+genre=Music & Audio,minInstalls_bin=0-10000,appId=2135
+genre=Lifestyle,minInstalls_bin=1000001-10000000,appId=335
+genre=Libraries & Demo,minInstalls_bin=0-10000,appId=141
+genre=Board,minInstalls_bin=10001-100000,appId=838
+genre=Casual,minInstalls_bin=100001-1000000,appId=1866
+genre=Educational,minInstalls_bin=0-10000,appId=2123
+genre=Auto & Vehicles,minInstalls_bin=1000001-10000000,appId=59
+genre=Social,minInstalls_bin=10001-100000,appId=904
+genre=Arcade,minInstalls_bin=4.0,appId=374
+genre=Beauty,minInstalls_bin=1000001-10000000,appId=28
+genre=Personalization,minInstalls_bin=10001-100000,appId=865
+genre=Entertainment,minInstalls_bin=0-10000,appId=5155
+genre=Sports,minInstalls_bin=100001-1000000,appId=1104
+genre=Beauty,minInstalls_bin=0-10000,appId=161
+genre=Art & Design,minInstalls_bin=1000001-10000000,appId=108
+genre=Casual,minInstalls_bin=1000001-10000000,appId=1255
+genre=Finance,minInstalls_bin=1000001-10000000,appId=98
+genre=Shopping,minInstalls_bin=4.0,appId=11
+genre=Travel & Local,minInstalls_bin=100001-1000000,appId=321
+genre=Libraries & Demo,minInstalls_bin=10001-100000,appId=36
+genre=Educational,minInstalls_bin=4.0,appId=249
+genre=Video Players & Editors,minInstalls_bin=100001-1000000,appId=372
+genre=Shopping,minInstalls_bin=0-10000,appId=639
+genre=Business,minInstalls_bin=10001-100000,appId=636
+genre=Educational,minInstalls_bin=100001-1000000,appId=833
+genre=Strategy,minInstalls_bin=100001-1000000,appId=1183
+genre=Entertainment,minInstalls_bin=4.0,appId=182
+genre=Parenting,minInstalls_bin=1000001-10000000,appId=58
+genre=Arcade,minInstalls_bin=5.0,appId=1
+genre=Productivity,minInstalls_bin=5.0,appId=5
+genre=Beauty,minInstalls_bin=4.0,appId=7
+genre=News & Magazines,minInstalls_bin=4.0,appId=10
+genre=House & Home,minInstalls_bin=100001-1000000,appId=26
+genre=Business,minInstalls_bin=5.0,appId=1
+genre=Medical,minInstalls_bin=4.0,appId=3
+genre=Travel & Local,minInstalls_bin=4.0,appId=15
+genre=Food & Drink,minInstalls_bin=4.0,appId=3
+genre=Music & Audio,minInstalls_bin=5.0,appId=2
+genre=Comics,minInstalls_bin=4.0,appId=10
+genre=Social,minInstalls_bin=5.0,appId=3
+genre=Tools,minInstalls_bin=5.0,appId=1
+genre=Events,minInstalls_bin=4.0,appId=1
+genre=Casual,minInstalls_bin=5.0,appId=2
+genre=Action,minInstalls_bin=5.0,appId=1
